@@ -1,5 +1,5 @@
 {
-  "name": "npm-template",
+  "name": "@iberzlt/npm-template",
   "version": "0.0.0",
   "description": "npm package template",
   "main": "index.js",
