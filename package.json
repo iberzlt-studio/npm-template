@@ -1,0 +1,12 @@
+{
+  "name": "npm-template",
+  "version": "0.0.0",
+  "description": "npm package template",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "y.takano",
+  "license": "MIT"
+}
